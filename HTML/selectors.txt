@@ -1,0 +1,1 @@
+the selectors are classified into 2 types one is the classselector,secound is the id selectors those two are play an important role in the html
