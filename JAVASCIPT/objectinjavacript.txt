@@ -1,0 +1,13 @@
+the objects in the java script are playing an imporatnat role inthe java script
+the explanation of objects in the javascript explained in beloew
+const person={
+    name="sivabalaji"
+    surname="metlaplli"
+    age="60"
+     full name= function()
+     {
+        return this .surname+this.name     }
+}
+console.log(person.name)
+console.log(person.fullname())
+console.log(person.age)
