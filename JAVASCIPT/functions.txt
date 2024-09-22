@@ -1,0 +1,14 @@
+the functions are play an important rule in the java script
+the main use of the function are
+single time write and multiple time use
+code is clean
+easy to de bug
+function add(a,b)
+{
+    c=a+b;
+    return c;
+
+}
+let x=add(2,3)
+console.log(x)
+the output is 5
